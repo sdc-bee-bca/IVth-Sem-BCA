@@ -1,0 +1,11 @@
+ID,Name,Age,City,Score,Passed
+1,Alice,22,Bangalore,85.5,True
+2,Bob,24,Chennai,15,False
+3,Charlie,23,Hyderabad,82,True
+4,David,25,Mumbai,90.7,True
+5,Eva,21,Delhi,30,False
+6,Frank,26,Pune,75,True
+7,Grace,22,Kolkata,80,True
+8,Helen,23,Jaipur,84,True
+9,Ian,24,Ahmedabad,79.5,True
+10,Judy,22,Coimbatore,20,False
